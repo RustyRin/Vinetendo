@@ -194,7 +194,7 @@ based on:       Switch by Lilbud
 		</text>
 <!--GAMELIST-->
 		<textlist name="gamelist">
-			<selectedColor>3750eb</selectedColor>
+			<selectedColor>2E7D32</selectedColor>
 			<primaryColor>2f2f2f</primaryColor>
 			<secondaryColor>2f2f2f</secondaryColor>
 			<selectorColor>00000000</selectorColor>
